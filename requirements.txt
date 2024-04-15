@@ -1,0 +1,10 @@
+jupyter
+notebook
+jupyter_contrib_nbextensions
+pandas
+numpy
+openpyxl
+matplotlib
+scipy
+scikit-learn
+requests
